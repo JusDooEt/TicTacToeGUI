@@ -5,7 +5,7 @@
 ![image](https://github.com/JusDooEt/TicTacToeGUI/assets/152052216/7f9649d1-fc75-494f-b647-7e8ff6b92623)
 
 ## About
-This program is a classic game of tic tac toe. This program can support a single player game or a two player game of tic tac toe. When running the program the user will be prompted with the menu below. If the user chooses to set the player's names the program will prompt the user for the new players names and will return to the menu after. If the user chooses a two player game, the program will use the stored user's names and have each player take turns. If the names are not changed, the program will default the names to 'X' and 'O'. If the user chooses a single player game, the program will use an algorithm to determine the computer's play after the user has played their turn.
+This program is a classic game of tic tac toe. This program can support a single player game or a two player game of tic tac toe. The user will open the program to a main menu. If the user chooses to set the player's names the program will prompt the user for the new players names and will return to the menu after. If the user chooses a two player game, the program will use the stored user's names and have each player take turns. If the names are not changed, the program will default the names to 'X' and 'O'. If the user chooses a single player game, the program will use an algorithm to determine the computer's play after the user has played their turn.
 
 ## Functionality 
 - Main Menu
