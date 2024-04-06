@@ -7,7 +7,7 @@
 				{
 					"build" : ".",
 					"hasInstallRule" : true,
-					"jsonFile" : "directory-.-Debug-1b3351403214bd0198b5.json",
+					"jsonFile" : "directory-.-Debug-deac45a165be292aefb3.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.16"
@@ -44,7 +44,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "TicTacToe::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-TicTacToe-Debug-2e17fb5b22055fba8592.json",
+					"jsonFile" : "target-TicTacToe-Debug-584ab28aff180e9117cc.json",
 					"name" : "TicTacToe",
 					"projectIndex" : 0
 				},
