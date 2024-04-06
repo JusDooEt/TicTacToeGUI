@@ -377,7 +377,7 @@ void GameBoard::spotSelected(int row, int col)
     if(rounds < MAX_ROUNDS)
         switchToken();
 
-    if(mode == 0 && token == 'O' && rounds < MAX_ROUNDS)
+    if(mode == 0 && token == 'O' && rounds < MAX_ROUNDS && gameOverDialog == nullptr)
     {
         GetCompPlay();
     }
