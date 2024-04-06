@@ -10,7 +10,7 @@ This program is a classic game of tic tac toe. This program can support a single
 ## Functionality 
 - Main Menu
   - Game mode combo box
-    - This combo box will be set to single player as default and changing the value to two player will stop the computer from playing and allow to a mulitplayer game.
+    - This combo box will be set to single player as default and changing the value to two player will stop the computer from playing and allow a multiplayer game.
   - Play Button
     - This button will start a new instance of a game of TIC-TAC-TOE and load the game board widget.
   - Change Player Name Button
@@ -22,7 +22,7 @@ This program is a classic game of tic tac toe. This program can support a single
   - Button Grid
     - The game board uses a 3 X 3 grid of push buttons in order for the user to interact with the application.
     - When a user presses a button or a computer chooses a button, it will be disabled until the board is reinitialized.
-    - The button text will be initialized as a blank space and will change to the corresponding 'X' or 'O' if choosen
+    - The button text will be initialized as a blank space and will change to the corresponding 'X' or 'O' if chosen
   - Retry Button
     - This button will reinitialize the button grid and start a new game.
   - Quit Button
@@ -43,5 +43,7 @@ This program is a classic game of tic tac toe. This program can support a single
   - The computer will prioritize and win, a defensive play and a random play in that order.
   - The if statements check to see what values are contained in two adjacent spots on the board and will command the computer to react accordingly.
   - If none of the conditions are met in the if statements, the function will generate random spots on the board until one is found to be empty and is therefore selected.
+
+
 
 
